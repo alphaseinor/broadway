@@ -1,0 +1,7 @@
+body{
+  font: helvetica;
+  text-align: center;
+}
+.background{
+  background-image: url("../images/the-flatiron-building.png");
+}
